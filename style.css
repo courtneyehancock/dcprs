@@ -328,11 +328,12 @@ img.uf-logo {
 
 /* -- VIEW POSTERS BY DEGREE -- */
 h1.degree-text {
-  position: absolute;
-  /* text-align: center; */
+	position: absolute;
+  text-align: center;
   bottom: 0;
-  /* bottom: 30px; */
+  bottom: 30px;
   background-color: #00529b;
+  left: 4px;
 }
 
 .col-md-4.undergrad {

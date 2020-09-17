@@ -559,14 +559,6 @@ footer img {
 	}
 }
 
-@media (min-width: 992px) {
-	footer {
-		height:200px;
-	}
-	body{
-		padding-bottom:200px;
-	}
-}
 @media (min-width: 1001px) {
 	.page-title {
 		font-size: 6em;

@@ -114,13 +114,14 @@ a.aa:hover {
 .btn {
     border: 2px solid #ff590e;
     font-family: 'Gentona' !important;
-    color: #ff590e;
+    color: #fff;
     border-radius: 0;
-		background-color: transparent;
+		background-color: #ff590e;
     box-shadow: 1px 5px 8px rgba(0,0,0,.1);
     /*text-shadow: 1px 1px 0px RGBA(0,0,0,0.17);*/
-		padding:1% 2%;
+		padding:1% 3%;
 		font-weight:bold;
+		font-size:20px;
 }
 
 .btn:hover {
@@ -542,7 +543,7 @@ footer img {
   /*	margin-top: 2%;*/
     /*margin-left: -25%;*/
   /*	max-height:75px;*/
-*/}
+}
 	footer {
 		position:fixed;
 		bottom:0;

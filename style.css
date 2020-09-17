@@ -35,58 +35,8 @@
 	font-family: 'GentonaLight';
 	src: url('fonts/GentonaLight.ttf') format('truetype');
 }
-@font-face {
-	font-family: 'QuadonHeavy';
-	src: url('fonts/QuadonHeavy.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'QuadonMedium';
-	src: url('fonts/QuadonMedium.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'QuadonThin';
-	src: url('fonts/QuadonThin.ttf') format('truetype');
-}
 
-@font-face {
-	font-family: 'PlayfairDisplay-Black';
-	src: url('fonts/PlayfairDisplay-Black.ttf') format('truetype');
-}
 
-@font-face {
-	font-family: 'PlayfairDisplay-BlackItalic';
-	src: url('fonts/PlayfairDisplay-BlackItalic.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'PlayfairDisplay-Bold';
-	src: url('fonts/PlayfairDisplay-Bold.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'PlayfairDisplay-BoldItalic';
-	src: url('fonts/PlayfairDisplay-BoldItalic.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'PlayfairDisplay-Italic';
-	src: url('fonts/PlayfairDisplay-Italic.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'PlayfairDisplay-Regular';
-	src: url('fonts/PlayfairDisplay-Regular.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'PlayfairDisplay-SemiBold';
-	src: url('fonts/PlayfairDisplay-SemiBold.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'PlayfairDisplay-SemiBoldItalic';
-	src: url('fonts/PlayfairDisplay-SemiBoldItalic.ttf') format('truetype');
-}
 
 html {
 	scroll-behavior: smooth;
@@ -97,17 +47,19 @@ h1 {
   color: #00529b;
 	font-size: 30px;
 	font-weight:bold;
+	letter-spacing:1px;
+	text-transform:uppercase;
 }
 
 h2 {
-  font-family: 'QuadonMedium', serif !important;
+  font-family: 'GentonaBook', serif !important;
   color: #00529b;
 	font-size: 1.2em;
 	letter-spacing:.8px;
 }
 
 h3 {
-  font-family: 'QuadonThin', serif !important;
+  font-family: 'GentonaBook', serif !important;
   color: #00529b;
 	font-size: 1em;
 	font-weight:bold;
@@ -177,15 +129,6 @@ a.aa:hover {
   color: #ff590e;
 }
 
-.p-font {
-	font-family: 'PlayfairDisplay-Regular' !important;
-	font-style:italic;
-	font-size: 14px;
-	margin:0;
-}
-/*body{
-  padding-bottom:500px;
-}*/
 
 .main-content{
 /*  min-height:190vh;*/
@@ -194,19 +137,6 @@ a.aa:hover {
 	position:relative;
 }
 
-.page-title {
-	padding: 25% 0 0 10%;
-	margin-top: -30px;
-	line-height: .8em;
-	font-size: 2em;
-	color: #fff;
-}
-
-ul.objectives {
-    color: #f37022;
-    font-size: 15px;
-    font-style: italic;
-	}
 
 img.uf-logo {
 		margin-left: 50px;
@@ -390,59 +320,6 @@ img.uf-logo {
 #mega-menu-wrap-header-menu #mega-menu-header-menu > li.mega-menu-item > a.mega-menu-link {
     letter-spacing: 1.5px;
 }*/
-
-/* -- INTERNAL PAGE HEADERS -- */
-.internal-div {
-	padding: 95px 0 20px;
-}
-
-/* -- HOME PAGE -- */
-h1.home-head{
-	color:#fff;
-	padding: 1% 5%;
-	/*text-shadow: 3px 4px 0px #bc581a;*/
-	border: 2px solid #a8dcd9;
-	/*position: absolute;
-	bottom: 138px;*/
-	text-align:center;
-}
-
-h2.home-subhead {
-	color:#fff;
-	font-size: 1em;
-	/*position:absolute;
-	bottom: 97px;
-	right: 60px;*/
-	text-align:center;
-}
-
-a.apply-btn.btn {
-	display:flex;
-	justify-content:center;
-}
-
-h2.ab-head2 {
-  color: #fff;
-}
-p.credit-de {
-    position: absolute;
-    z-index: 1;
-    right: 0px;
-    background-color: #ff590e;
-    padding: 19px 23px;
-    font-weight: bold;
-    color: #fff;
-    text-transform: uppercase;
-    border-radius: 0 0 0 20px;
-    text-align: center;
-		/*margin-top: 39px;*/
-}
-/* -- DEPARTMENTS -- */
-.d-photo {
-	object-fit: cover;
-  width: 100%;
-  height: 230px;
-}
 
 /* -- CONTACT US -- */
 img.img-fluid.headshots {

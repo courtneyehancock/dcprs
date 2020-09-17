@@ -332,6 +332,14 @@ img.img-fluid.headshots {
     width: 220px;
     height: 260px;
 }
+/* -- BLOG HEADERS -- */
+.single-post-header{
+	padding-top: 10%;
+	background-color: #f4f4f4;
+	background-image: url(https://pwd.aa.ufl.edu/dcprs/wp-content/uploads/sites/14/2020/09/pattern-cover-small.jpg);
+	padding-bottom: 2%;
+	margin-top: -70px;
+}
 
 /* -- BLOG -- */
 .col-lg-3.posts {

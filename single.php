@@ -1,6 +1,8 @@
 <?php get_header(); ?>
 
 <div class="main-content pt-5 pb-5">
+  <div class="single-post-header">
+  </div>
   <div class="container mt-5">
   <?php
     if(have_posts()){

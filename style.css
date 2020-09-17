@@ -146,6 +146,11 @@ img.uf-logo {
     width: 20%;
 }
 
+.shadow {
+	box-shadow: 1px 5px 8px rgba(0,0,0, .1);
+}
+
+
 .head-text {
 	color: #00529b;
 	position: absolute;
@@ -321,7 +326,7 @@ img.uf-logo {
     letter-spacing: 1.5px;
 }*/
 
-/* -- CONTACT US -- */
+/* -- SPEAKERS -- */
 img.img-fluid.headshots {
     object-fit: cover;
     width: 220px;

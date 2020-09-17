@@ -22,11 +22,11 @@
 
   <div class="container-fluid final-footer">
     <div class="row align-items-center">
-      <div class="col-lg-8">
+      <div class="col-lg-7">
         <p> © 2020 University of Florida Conferences Department | <a href="mailto:cehancock@mail.ufl.edu">Website Feedback</a> | <a href="https://privacy.ufl.edu/privacy-policies-and-procedures/onlineinternet-privacy-statement/">UF Privacy Policy</a></p>
       </div>
-      <div class="col-lg-2">
-        <a href="https://conferences.aa.ufl.edu" target="_blank"><img alt="Conferences Logo" src="https://pwd.aa.ufl.edu/cdprs/wp-content/uploads/sites/14/2020/09/conferences-white.png"></a>
+      <div class="col-lg-3">
+        <a href="https://conferences.aa.ufl.edu" target="_blank"><img class="img-fluid" alt="Conferences Logo" src="https://pwd.aa.ufl.edu/cdprs/wp-content/uploads/sites/14/2020/09/conferences-white.png"></a>
       </div>
       <div class="col-lg-2">
         <a href="https://www.ufl.edu/" target="_blank"><img alt="UF Logo" src="https://cwde.aa.ufl.edu/wp-content/uploads/sites/2/2020/05/UF_Signature_white.png"/></a>

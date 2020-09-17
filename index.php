@@ -1,6 +1,8 @@
 <?php get_header(); ?>
 
-<div class="main-content">
+<div class="main-content pt-5 pb-5">
+  <div class="single-post-header">
+  </div>
   <div class="container-fluid">
     <div class="row align-items-start internal-div justify-content-center">
     <?php
@@ -28,4 +30,13 @@
     </div>
   </div>
 </div>
+<style>
+.head-text {
+  color:#fff !important;
+}
+
+img.uf-logo {
+  display:none;
+}
+</style>
 <?php get_footer(); ?>

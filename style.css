@@ -329,11 +329,6 @@ img.img-fluid.headshots {
 }
 
 /* -- BLOG -- */
-.post-container {
-	display: flex;
-	align-items: flex-start;
-}
-
 .col-lg-3.posts {
 	padding:10px;
 	box-shadow: 1px 5px 8px rgba(0,0,0,.1);
@@ -387,6 +382,7 @@ img {
 ul.post-categories li {
     display: inline;
 }
+
 /* -- FOOTER -- */
 
 footer {

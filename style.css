@@ -326,6 +326,40 @@ img.uf-logo {
     letter-spacing: 1.5px;
 }*/
 
+/* -- VIEW POSTERS BY DEGREE -- */
+h1.degree-text {
+  position: absolute;
+  /* text-align: center; */
+  bottom: 0;
+  /* bottom: 30px; */
+  background-color: #00529b;
+}
+
+.col-md-4.undergrad {
+  background-image: url(https://pwd.aa.ufl.edu/dcprs/wp-content/uploads/sites/14/2020/09/2020-07-27_ReOpening-9919.jpg);
+  max-width: 350px;
+  height: 250px;
+  object-fit: fill;
+  background-size: 400px;
+  background-position: center;
+}
+.col-md-4.grad {
+  background-image: url(https://pwd.aa.ufl.edu/dcprs/wp-content/uploads/sites/14/2020/09/2020-07-27_ReOpening-9919.jpg);
+  max-width: 350px;
+  height: 250px;
+  object-fit: fill;
+  background-size: 400px;
+  background-position: center;
+}
+.col-md-4.phd {
+  background-image: url(https://pwd.aa.ufl.edu/dcprs/wp-content/uploads/sites/14/2020/09/2020-07-27_ReOpening-9919.jpg);
+  max-width: 350px;
+  height: 250px;
+  object-fit: fill;
+  background-size: 400px;
+  background-position: center;
+}
+
 /* -- SPEAKERS -- */
 img.img-fluid.headshots {
     object-fit: cover;

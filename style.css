@@ -367,6 +367,14 @@ img.img-fluid.headshots {
     width: 220px;
     height: 260px;
 }
+
+/* -- CONTENT VIEW STYLING -- */
+.pt-cv-readmore {
+    color: #fff !important;
+    background-color: #ff590e !important;
+    border: none !important;
+}
+
 /* -- BLOG HEADERS -- */
 .single-post-header{
 	padding-top: 10%;

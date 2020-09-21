@@ -551,7 +551,7 @@ footer img {
 		text-align:left;
 	}
 	.degree-text {
-		right:none;
+		right:auto !important;
 		left:4px;
 	}
 }

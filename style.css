@@ -165,6 +165,9 @@ img.uf-logo {
 	background-color:#f4f4f4;
 }
 
+.home-buttons {
+	padding-top: 7%;
+}
 body {
   position: relative;
 }
@@ -327,7 +330,10 @@ img.uf-logo {
 #mega-menu-wrap-header-menu #mega-menu-header-menu > li.mega-menu-item > a.mega-menu-link {
     letter-spacing: 1.5px;
 }*/
-
+/* -- SECTION TITLES -- */
+.section-title {
+	text-align:right;
+}
 /* -- VIEW POSTERS BY DEGREE -- */
 h1.degree-text {
 	position: absolute;
@@ -532,6 +538,15 @@ footer img {
 	}
 }
 
+@media (min-width: 700px) {
+	img.uf-logo {
+		width:40%;
+	}
+	.section-title {
+		text-align:left;
+	}
+}
+
 @media (min-width: 767px) {
 	.page-title {
 		font-size: 4em;
@@ -561,11 +576,25 @@ footer img {
 	}
 }
 
+@media (min-width: 800px) {
+	.head-text {
+		font-size:30px;
+		top:90px;
+	}
+}
+
 @media (min-width: 1001px) {
 	.page-title {
 		font-size: 6em;
 	}
 }
+
+@media (min-width: 1025px) {
+	img.uf-logo {
+		width:30%;
+	}
+}
+
 @media (min-width: 1200px) {
 	.course-grid {
 		margin-top: -162px;
@@ -604,7 +633,6 @@ footer img {
 		color: #00529b;
     position: absolute;
     right: 50px;
-    top: 90px;
     z-index: 2;
     font-size: 40px;
     font-weight: bold;

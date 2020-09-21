@@ -497,13 +497,6 @@ footer li a:hover {
 	text-decoration: none;
 }
 
-.widget-footer.widget-right a {
-  color: #fff;
-}
-.widget-footer.widget-right a:hover {
-  color: #ff590e;
-}
-
 footer img {
 	max-width: 300px !important;
 }

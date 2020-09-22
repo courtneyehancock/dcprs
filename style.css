@@ -252,7 +252,7 @@ body {
 }
 .menu li a.active:after{
     position:absolute;
-    left:3em;
+    left:2em;
     top:0;
     content:"";
     border:2.5em solid transparent;
@@ -516,6 +516,9 @@ footer img {
     font-size: 1.4em;
 	}
 	.menu li a:after {
+		left: 3em;
+	}
+	.menu li a.active:after{
 		left: 3em;
 	}
 }

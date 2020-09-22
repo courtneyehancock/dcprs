@@ -141,11 +141,8 @@ a.aa:hover {
 
 
 img.uf-logo {
-		margin-left: 50px;
-    position: absolute;
-    top: 65px;
-    z-index: 2;
-    width: 70%;
+	display:none;
+/*    width: 70%;*/
 }
 
 .shadow {
@@ -504,9 +501,9 @@ footer img {
 
 /* -- MEDIA QUERIES -- */
 @media (min-width: 440px){
-	img.uf-logo {
+/*	img.uf-logo {
 		width:60%;
-	}
+	}*/
 }
 
 @media (min-width:500px){
@@ -544,9 +541,7 @@ footer img {
 }
 
 @media (min-width: 700px) {
-	img.uf-logo {
-		width:40%;
-	}
+
 	.section-title {
 		text-align:left;
 	}
@@ -563,6 +558,21 @@ footer img {
 	}
 }
 
+@media (min-width:730px){
+	.head-text {
+		width:none;
+		padding:0;
+		right:50px;
+	}
+	img.uf-logo {
+		display:block;
+		width:40%;
+		margin-left: 50px;
+		position: absolute;
+		top: 65px;
+		z-index: 2;
+	}
+}
 @media (min-width: 767px) {
 	.page-title {
 		font-size: 4em;

@@ -50,11 +50,11 @@
     <li title="home" class="nav-item">
       <a class="home nav-link active" href="https://pwd.aa.ufl.edu/dcprs/">Home</a>
     </li>
-    <li title="posters" class="nav-item">
-      <a class="posters nav-link" href="https://pwd.aa.ufl.edu/dcprs/#posters">Poster Submissions</a>
-    </li>
     <li title="about" class="nav-item">
       <a class="about nav-link" href="https://pwd.aa.ufl.edu/dcprs/#about">About</a>
+    </li>
+    <li title="posters" class="nav-item">
+      <a class="posters nav-link" href="https://pwd.aa.ufl.edu/dcprs/#posters">Poster Submissions</a>
     </li>
     <li title="agenda" class="nav-item">
       <a class="agenda nav-link" href="https://pwd.aa.ufl.edu/dcprs/#agenda" class="agenda">Agenda</a>

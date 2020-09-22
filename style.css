@@ -563,10 +563,13 @@ footer img {
 
 @media (min-width:730px){
 	.head-text {
-		width:none;
+		width:33%;
 		padding:0;
 		right:50px;
+		top:100px;
+		background-color:transparent;
 	}
+
 	img.uf-logo {
 		display:block;
 		width:40%;
@@ -673,7 +676,6 @@ footer img {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-		background-color:transparent;
 	}
 }
 

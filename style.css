@@ -178,7 +178,7 @@ body {
 @import url("//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css");
 .menu {
   position: fixed;
-  top: 20%;
+  top: 10%;
   left: 0;
   height: 100%;
   list-style-type: none;
@@ -556,6 +556,10 @@ footer img {
 	}
 	.home-buttons {
 		padding-top:0px;
+	}
+	.menu {
+	  position: fixed;
+	  top: 20%;
 	}
 }
 

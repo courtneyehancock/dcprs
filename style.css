@@ -516,7 +516,7 @@ footer img {
 	.menu li a:before {
     font-size: 1.4em;
 	}
-	.menu li a:after {
+	.menu li:after {
 		left: 3em;
 	}
 	.menu li a.active:after{

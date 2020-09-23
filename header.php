@@ -68,6 +68,9 @@
     <li title="register" class="nav-item">
       <a class="nav-link register" href="https://pwd.aa.ufl.edu/dcprs/#register">Register</a>
     </li>
+    <li title="faq" class="nav-item">
+      <a class="nav-link faq" href="https://pwd.aa.ufl.edu/dcprs/#register">FAQ</a>
+    </li>
   </ul>
 </nav>
 

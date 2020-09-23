@@ -239,6 +239,9 @@ body {
 .menu li a.submit:before {
   content: "\f093";
 }
+.menu li a.faq:before {
+  content: "\f059";
+}
 .menu li a.home:before {
   content: "\f015";
 }
@@ -560,7 +563,7 @@ footer img {
 	}
 	.menu {
 	  position: fixed;
-	  top: 20%;
+	  top: 15%;
 	}
 }
 

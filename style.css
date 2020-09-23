@@ -274,7 +274,7 @@ body {
     position:absolute;
     left:2em;
     top:0;
-    height:5em;
+    height:3em;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -573,6 +573,8 @@ footer img {
 		height:em;
 		line-height:5em;
 	}
+	.menu li:after{
+	    height:5em;
 }
 
 @media (min-width:730px){

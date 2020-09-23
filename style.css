@@ -181,7 +181,7 @@ body {
 @import url("//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css");
 .menu {
   position: fixed;
-  top: 10%;
+  top: 20%;
   left: 0;
   height: 100%;
   list-style-type: none;
@@ -570,7 +570,7 @@ footer img {
 	}
 	.menu li a{
 		display:block;
-		height:em;
+		height:5em;
 		line-height:5em;
 	}
 	.menu li:after{

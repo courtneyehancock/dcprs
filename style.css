@@ -196,10 +196,10 @@ body {
 }
 .menu li a{
     display:block;
-    height:em;
+    height:3em;
     width:2em;
     text-indent:-500em;
-    line-height:5em;
+    line-height:3em;
     text-align:center;
     color: #fff;
    	background: #ff590e;
@@ -264,7 +264,7 @@ body {
     content:"";
     border:2.5em solid transparent;
     border-left-color:#f4f4f4;
-    border-width: 2.5em 1em
+    border-width: 1.5em 1em
 }
 .menu li{
     position:relative;
@@ -564,6 +564,14 @@ footer img {
 	.menu {
 	  position: fixed;
 	  top: 15%;
+	}
+	.menu li a.active:after {
+    border-width: 2.5em 1em;
+	}
+	.menu li a{
+		display:block;
+		height:em;
+		line-height:5em;
 	}
 }
 

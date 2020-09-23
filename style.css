@@ -280,7 +280,7 @@ body {
     box-sizing: border-box;
     text-transform:uppercase;
     background:#f4f4f4;
-    padding:2em;
+    padding:1em;
     transition: all 0.3s ease-in-out;
     visibility:hidden;
     opacity:0;
@@ -575,6 +575,7 @@ footer img {
 	}
 	.menu li:after{
 	    height:5em;
+			padding:2em;
 }
 
 @media (min-width:730px){

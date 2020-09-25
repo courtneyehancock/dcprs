@@ -402,7 +402,7 @@ img.img-fluid.headshots {
 
 .white-banner {
 	background-color:#fff;
-	height:120px;
+	height:75px;
 }
 
 /* -- BLOG -- */
@@ -681,7 +681,7 @@ footer img {
   /*  padding:30px;*/
 		margin-left: 50px;
     position: absolute;
-    top: 65px;
+  /*  top: 65px;*/
     z-index: 2;
     /*width: 20%;*/
   }

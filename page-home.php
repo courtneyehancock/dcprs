@@ -3,6 +3,8 @@
 <?php get_header(); ?>
 
 <div class="main-content">
+  <div class="white-banner">
+  </div>
           <?php
             if(have_posts()){
               while(have_posts()){

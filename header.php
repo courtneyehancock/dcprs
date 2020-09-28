@@ -62,7 +62,7 @@
     <li title="speakers" class="nav-item">
       <a class="speakers nav-link" href="https://pwd.aa.ufl.edu/dcprs/#speakers" class="speakers">Speakers</a>
     </li>
-    <li title="submit" class="nav-item">
+    <li title="submit a poster" class="submit-nav nav-item">
       <a class="nav-link submit" href="https://pwd.aa.ufl.edu/dcprs/#submit">Submit</a>
     </li>
     <li title="register" class="nav-item">

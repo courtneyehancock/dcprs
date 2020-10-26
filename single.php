@@ -35,13 +35,4 @@
   ?>
   </div>
 </div>
-<style>
-.head-text {
-  color:#fff !important;
-}
-
-img.uf-logo {
-  display:none;
-}
-</style>
 <?php get_footer(); ?>

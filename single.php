@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<div class="main-content pt-5 pb-5">
+<div class="main-content">
   <div class="white-banner">
   </div>
   <div class="single-post-header">

@@ -35,4 +35,9 @@
   ?>
   </div>
 </div>
+<style>
+.head-text {
+  color:#fff !important;
+}
+</style>
 <?php get_footer(); ?>
